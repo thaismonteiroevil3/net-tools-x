@@ -27,13 +27,13 @@ Basic network tools in Python: ping, DNS resolution, and TCP port scanning.
 
 ## 📝 Example
 
-```
-Ferramentas de Redes 🛠️
+```bash
+Network Tools 🛠️
 1. Ping
-2. Resolver DNS
-3. Verificar Porta
-Escolha uma opção: 1
-Digite o host: google.com
+2. Resolve DNS
+3. Check Port
+Choose an option: 1
+Enter the host: google.com
 ```
 
 ## 📄 License
